@@ -9,9 +9,9 @@
 spider_settings:
   enable: true
   json_url: "https://www.xrbk.cn/api/links.json"
-  article_count: 5
+  article_count: 10
   merge_result:
-    enable: false
+    enable: true
     merge_json_url: "https://fc.xrbk.cn"
 
 # 邮箱推送功能配置，暂未实现，等待后续开发
